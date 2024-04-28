@@ -18,7 +18,7 @@ Follow the on-screen prompts to register/login, select products, and complete th
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.sql) file for details.
 
 ## Contact
 
